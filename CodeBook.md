@@ -1,4 +1,4 @@
-#Code Book
+# Code Book
 
 Data Set
 The data set used in this assignment was gathered from the accelerometers from the Samsung Galaxy S smartphone. A full description can be read in the following link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
